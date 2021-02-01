@@ -1,2 +1,2 @@
 # Portfolio
-My Portfolio website
+My portfolio created using 'Semantic UI' to style the full website.
